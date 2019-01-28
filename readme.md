@@ -1,4 +1,4 @@
-#Selenium To Download Your Google Takeout Data and to Implement Search Query in JustDial Python3
+# Selenium To Download Your Google Takeout Data and to Implement Search Query in JustDial Python3
 
 pip install -r requirements.txt
 
