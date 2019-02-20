@@ -6,3 +6,6 @@ edit inside code username and password
 
 run >
 python3 google_takeout_selenium.py
+or 
+python3 SarathiDL.py headless
+
